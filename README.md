@@ -57,7 +57,7 @@
 
 ## 🚀 Atualmente estudando
 
-✅ JavaScript Moderno  
+✅ JavaScript   
 ✅ React.js  
 ✅ Node.js  
 ✅ SQL  
