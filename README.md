@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:2563eb&text=Daniel%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer&descAlignY=58" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3C%2F%3E+Daniel+Santos;Full+Stack+JavaScript+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+SQL;console.log(%22Hello+World!%22)" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2e1f4f22-bdf2-4f44-9f4e-ec3d0f2d2f8f.gif" width="900">
+</p>
 
 <h1 align="center">👋 Olá, eu sou Daniel Santos</h1>
 
