@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Daniel%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:2563eb&text=Daniel%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20JavaScript%20Developer&descAlignY=58" />
 
 <h1 align="center">👋 Olá, eu sou Daniel Santos</h1>
 
