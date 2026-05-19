@@ -76,5 +76,9 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/DaniielDev/DaniielDev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
 ✨ <i>Sempre aprendendo e evoluindo um commit por vez.</i>
 </p>
