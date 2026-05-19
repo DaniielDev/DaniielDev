@@ -76,9 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DaniielDev/DaniielDev/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
 ✨ <i>Sempre aprendendo e evoluindo um commit por vez.</i>
 </p>
