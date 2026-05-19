@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%3C%2F%3E+Daniel+Santos;Full+Stack+JavaScript+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+SQL;console.log(%22Hello+World!%22)" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:1e40af,100:38bdf8&text=Daniel%20Santos&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=💻%20Full%20Stack%20JavaScript%20Developer&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2e1f4f22-bdf2-4f44-9f4e-ec3d0f2d2f8f.gif" width="900">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,git,github,mysql,vscode,html,css" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3C%2F%3E+Transformando+código+em+soluções...;JavaScript+%7C+React+%7C+Node.js;Sempre+aprendendo+algo+novo+🚀" />
+</p>
 <h1 align="center">👋 Olá, eu sou Daniel Santos</h1>
 
 <h3 align="center">
