@@ -1,4 +1,8 @@
+<p align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E293B,100:38BDF8&text=Daniel%20Santos&fontColor=ffffff&fontSize=55&fontAlignY=45&animation=fadeIn&desc=&section=header"/>
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
