@@ -1,7 +1,4 @@
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaniielDev&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
