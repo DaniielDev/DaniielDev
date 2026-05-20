@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=300&lines=%3C+Daniel+Santos+%2F%3E;%3C+Full+Stack+Developer+%2F%3E;%3C+Java+%7C+JavaScript+%7C+SQL+%2F%3E" />
+  <img width="100%" src="https://user-images.githubusercontent.com/placeholder/banner.gif" />
 </p>
 
 <p align="center">
