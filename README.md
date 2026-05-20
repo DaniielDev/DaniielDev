@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3C%2F%3E+Transformando+código+em+soluções...;JavaScript+%7C+React+%7C+Node.js;Sempre+aprendendo+algo+novo+🚀" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+JavaScript+%E2%80%A2+SQL;AI-Assisted+Development;Building+Real+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+AI-Assisted+Development;%3C%2F%3E+Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+SQL;console.log(%22Building+Solutions%22)" />
 </p>
 
 <h3 align="center">
