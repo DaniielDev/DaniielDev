@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="100%" src="https://dummyimage.com/1200x300/0d1117/58a6ff.png&text=Daniel+Santos+%7C+Full+Stack+Developer+%7C+Java+%E2%80%A2+JavaScript+%E2%80%A2+SQL" />
-</p>
+<img src="https://img.shields.io/badge/AI-Assisted%20Development-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
