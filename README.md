@@ -3,41 +3,24 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,git,github,mysql,vscode,html,css" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%3C%2F%3E+Transformando+código+em+soluções...;JavaScript+%7C+React+%7C+Node.js;Sempre+aprendendo+algo+novo+🚀" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-Assisted%20Development-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-<h3 align="center">
-💻 Full Stack Developer
-</h3>
-
 <p align="center">
-🚀 React • Node.js • JavaScript • SQL • REST APIs
+Full Stack Developer • React • Node.js • JavaScript • SQL
 </p>
 
 <p align="center">
-🤖 Desenvolvimento assistido por IA
-</p>
-
-<p align="center">
-🔥 Construindo projetos e soluções práticas
-</p>
-<br>
-
-## 🚀 Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,git,github,mysql,html,css,vscode" />
+AI-Assisted Development • Building Real Projects
 </p>
 
 <br>
@@ -52,7 +35,7 @@
 
 <br>
 
-## 🔥 Consistência
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DaniielDev&theme=tokyonight&hide_border=true" />
@@ -60,38 +43,37 @@
 
 <br>
 
-## 🚀 Atualmente estudando
+## 🚀 Current Focus
 
-✅ JavaScript   
-✅ React.js  
-✅ Node.js  
-✅ SQL  
-✅ Git & GitHub  
-
-<br>
-
-## 📌 Projetos em Desenvolvimento
-
-📌 Estudos de JavaScript  
-📌 Projetos React  
-📌 APIs com Node.js  
-📌 Banco de dados SQL  
+- React.js  
+- Node.js  
+- REST APIs  
+- SQL  
+- Clean Code & Best Practices  
 
 <br>
 
-## 📫 Contato
+## 📌 Projects in Development
+
+- JavaScript Exercises  
+- React Projects  
+- Node.js APIs  
+- SQL Database Studies  
+
+<br>
+
+## 📫 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/daniieldev/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  <a href="https://www.instagram.com/dev_daniieel/">
+
+<a href="https://www.instagram.com/dev_daniieel/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </p>
 
-
 <p align="center">
-✨ <i>Sempre aprendendo e evoluindo um commit por vez.</i>
+<i>Building solutions through code and continuous learning.</i>
 </p>
