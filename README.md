@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://dummyimage.com/1200x300/0d1117/58a6ff.png&text=Daniel+Santos+%7C+Full+Stack+Developer" />
+  <img width="100%" src="https://dummyimage.com/1200x300/0d1117/58a6ff.png&text=Daniel+Santos+%7C+Full+Stack+Developer+%7C+Java+%E2%80%A2+JavaScript+%E2%80%A2+SQL" />
 </p>
 
 <p align="center">
