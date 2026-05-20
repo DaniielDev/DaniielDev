@@ -1,4 +1,6 @@
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaniielDev&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=50&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=300&lines=%3C+Daniel+Santos+%2F%3E;%3C+Full+Stack+Developer+%2F%3E;%3C+Java+%7C+JavaScript+%7C+SQL+%2F%3E" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
