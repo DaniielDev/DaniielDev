@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e40af,100:38bdf8&text=Daniel%20Santos&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,50:172554,100:2563EB&text=%3C%2F%3E%20Daniel%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=93C5FD"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
 </p>
