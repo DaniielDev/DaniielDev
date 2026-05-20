@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="a_wide_dark_high_resolution_banner_splash_image.png" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=300&background=0D1117&lines=const+developer+%3D+new+DanielSantos()%3B;developer.getRole()+%2F%2F+Full+Stack+Developer;developer.getStack()+%2F%2F+%5B'Java'%2C+'JavaScript'%2C+'SQL'%5D" />
 </p>
 
 <p align="center">
