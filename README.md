@@ -12,19 +12,19 @@
 <h1 align="center">👋 Olá, eu sou Daniel Santos</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Full Stack JavaScript em formação
+💻 Full Stack Developer
 </h3>
 
 <p align="center">
-🚀 Focado em JavaScript, React, Node.js e SQL
+🚀 JavaScript • React • Node.js • Java • SQL
 </p>
 
 <p align="center">
-📚 Estudando diariamente e construindo projetos práticos
+🤖 Desenvolvimento assistido por IA
 </p>
 
 <p align="center">
-🔥 Evoluindo um commit por vez
+📚 Construindo projetos e evoluindo diariamente
 </p>
 
 <br>
