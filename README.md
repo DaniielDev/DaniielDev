@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=%3E+const+developer+%3D+%22Daniel+Santos%22;%3E+Full+Stack+Developer;%3E+React+%7C+Node.js+%7C+SQL+%7C+AI" />
+  <img width="100%" src="https://dummyimage.com/1200x300/0d1117/58a6ff.png&text=Daniel+Santos+%7C+Full+Stack+Developer" />
 </p>
 
 <p align="center">
