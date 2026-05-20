@@ -16,15 +16,15 @@
 </h3>
 
 <p align="center">
-🚀 JavaScript • React • Node.js • SQL
+🚀 React • Node.js • JavaScript • SQL • REST APIs
 </p>
 
 <p align="center">
-🤖 IA aplicada ao desenvolvimento e produtividade
+🤖 Desenvolvimento assistido por IA
 </p>
 
 <p align="center">
-📚 Construindo projetos e evoluindo diariamente
+🔥 Construindo projetos e soluções práticas
 </p>
 <br>
 
