@@ -1,12 +1,6 @@
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" background="URL_DA_IMAGEM_ACIMA" style="background-size: cover; background-position: center; border-collapse: collapse; width: 100%; max-width: 1000px; height: 300px;">
-    <tr>
-      <td align="center" valign="middle" style="padding: 0; border: none;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=55&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=100&background=00000000&lines=%3C+Daniel+Santos+%2F%3E;Daniel+Santos" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=8000&pause=5000&color=58A6FF&center=true&vCenter=true&width=1000&height=320&background=0D1117&lines=%2F**%20SYSTEM%20STATUS:%20ACTIVE%20**%2F%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;--------------------------------------------------;%5B+import+java.util.*%3B+%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%20%20%3D%3E%20%20%3C+DANIEL+SANTOS+%2F%3E%20%20%3C%3D%20%20;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%5B+const+dev+%3D+new+FullStack()%3B+%5D%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;--------------------------------------------------;%2F*%20SELECT+*+FROM+skills+WHERE+level+%3D+'expert'%3B+*%2F" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
