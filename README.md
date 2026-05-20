@@ -1,6 +1,12 @@
-<p align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=300&background=0D1117&lines=const+developer+%3D+new+DanielSantos()%3B;developer.getRole()+%2F%2F+Full+Stack+Developer;developer.getStack()+%2F%2F+%5B'Java'%2C+'JavaScript'%2C+'SQL'%5D" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" background="URL_DA_IMAGEM_ACIMA" style="background-size: cover; background-position: center; border-collapse: collapse; width: 100%; max-width: 1000px; height: 300px;">
+    <tr>
+      <td align="center" valign="middle" style="padding: 0; border: none;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=55&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=100&background=00000000&lines=%3C+Daniel+Santos+%2F%3E;Daniel+Santos" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+•+Node.js+•+JavaScript+•+SQL;AI-Assisted+Development;Building+Real+Projects+🚀" />
