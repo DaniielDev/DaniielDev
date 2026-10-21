@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="header-retro.png" width="100%" alt="Daniel Santos - Banner retrô azul neon" />
+  <img src="./header-retro.png" width="100%" alt="Daniel Santos - Banner retrô azul neon" />
 </p>
 
 <p align="center">
