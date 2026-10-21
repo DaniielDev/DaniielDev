@@ -40,11 +40,33 @@
 </p>
 
 
-<h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaniielDev&theme=tokyonight&hide_border=true"/>
-</p>
+## 💻 Terminal Retrô
+
+<div align="center">
+<table>
+<tr>
+<td bgcolor="#07111F">
+
+<pre>
+<span style="color:#00BFFF">daniel@github:~$ cat current_focus.txt</span>
+
+- Aprendendo Python e SQL
+- Explorando bancos de dados e IA
+- Desenvolvendo projetos práticos
+
+<span style="color:#00BFFF">daniel@github:~$ echo $GOAL</span>
+
+Conquistar minha primeira oportunidade em tecnologia.
+
+<span style="color:#00BFFF">daniel@github:~$</span>
+</pre>
+
+</td>
+</tr>
+</table>
+</div>
+
 
 <h2 align="center">🎯 Foco atual</h2>
 
