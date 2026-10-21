@@ -1,10 +1,28 @@
 
-name: Teste Snake
+name: Generate Snake Animation
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  teste:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Workflow YAML valido"
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: DaniielDev
+          outputs: dist/github-snake.svg?color_snake=%2300BFFF&color_dots=%230B1020,%230B2D4D,%230066CC,%2300A6FF,%2300BFFF
+
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
