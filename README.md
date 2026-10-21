@@ -32,12 +32,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+
+## 🐍 GitHub Snake
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaniielDev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaniielDev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/DaniielDev/DaniielDev/output/github-snake.svg" alt="Animação da cobrinha no gráfico de contribuições do GitHub" width="100%" />
 </p>
+
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
