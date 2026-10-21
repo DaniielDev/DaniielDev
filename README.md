@@ -41,31 +41,16 @@
 
 
 
+
 ## 💻 Terminal Retrô
 
-<div align="center">
-<table>
-<tr>
-<td bgcolor="#07111F">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=999999&color=00BFFF&background=07111F&center=true&vCenter=true&width=750&height=200&lines=daniel%40github%3A~%24+cat+current_focus.txt;-+Aprendendo+Python+e+SQL;-+Explorando+bancos+de+dados+e+IA;-+Desenvolvendo+projetos+pr%C3%A1ticos;daniel%40github%3A~%24+echo+%24GOAL;Conquistar+minha+primeira+oportunidade+em+tecnologia.;daniel%40github%3A~%24"
+    alt="Terminal retrô azul neon com meus objetivos"
+  />
+</p>
 
-<pre>
-<span style="color:#00BFFF">daniel@github:~$ cat current_focus.txt</span>
-
-- Aprendendo Python e SQL
-- Explorando bancos de dados e IA
-- Desenvolvendo projetos práticos
-
-<span style="color:#00BFFF">daniel@github:~$ echo $GOAL</span>
-
-Conquistar minha primeira oportunidade em tecnologia.
-
-<span style="color:#00BFFF">daniel@github:~$</span>
-</pre>
-
-</td>
-</tr>
-</table>
-</div>
 
 
 <h2 align="center">🎯 Foco atual</h2>
