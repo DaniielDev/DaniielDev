@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="header-retro.png" width="100%" alt="Daniel Santos - Banner retrô azul neon">
+  <img src="./header-retro.png" width="100%" alt="Daniel Santos - Banner retrô azul neon">
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Estudante+de+Intelig%C3%AAncia+Artificial+e+Machine+Learning;Aprendendo+Python+e+SQL;Evoluindo+com+projetos+pr%C3%A1ticos"/>
 </p>
