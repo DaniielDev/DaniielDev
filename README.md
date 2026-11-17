@@ -1,14 +1,6 @@
 
 <div align="center">
-
-  <img src="./assets/banner-dados.png" width="100%" alt="Data Analytics Banner">
-
-  # Daniel Santos
-
-  **Analista de Dados em formação | Python | SQL | Power BI | Inteligência Artificial**
-
-  *Transformando dados em informações que geram decisões.*
-
+  <img src="./banner-dados.png" width="100%" alt="Daniel Santos - Análise de Dados">
 </div>
 
 ---
