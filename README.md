@@ -4,9 +4,17 @@
 </div>
 ---
 
+
 ## 👋 Sobre mim
 
-Sou formado em Desenvolvimento Full Stack pela Estácio e atualmente curso Inteligência Artificial e Machine Learning na UniCesumar. Tenho interesse em desenvolvimento de software, bancos de dados e inteligência artificial. Estou ampliando meus conhecimentos em Python, SQL e lógica de programação, buscando evoluir tecnicamente por meio dos estudos e da construção de projetos práticos. Busco uma oportunidade de estágio na área de Tecnologia da Informação para aplicar meus conhecimentos, adquirir experiência profissional, aprender com outros desenvolvedores e contribuir com a equipe. Valorizo o aprendizado contínuo, a colaboração e o desenvolvimento de soluções que atendam às necessidades dos usuários.
+Sou formado em Desenvolvimento Full Stack pela Estácio e atualmente curso Inteligência Artificial e Machine Learning na UniCesumar.
+
+Tenho interesse em desenvolvimento de software, bancos de dados, análise de dados e inteligência artificial. Estou ampliando meus conhecimentos em Python, SQL e lógica de programação, buscando evoluir tecnicamente por meio dos estudos e da construção de projetos práticos.
+
+Busco uma oportunidade na área de Tecnologia da Informação para aplicar meus conhecimentos, adquirir experiência prática, aprender com outros profissionais e contribuir com a equipe.
+
+Valorizo o aprendizado contínuo, a colaboração e o desenvolvimento de soluções que atendam às necessidades dos usuários.
+
 ---
 
 ## 🎯 Meu foco atual
