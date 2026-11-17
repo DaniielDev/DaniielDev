@@ -58,13 +58,11 @@ Meu objetivo é conquistar uma oportunidade na área de Dados, aplicar meus conh
 
 Aqui compartilho meus projetos de desenvolvimento, estudos e evolução na área de tecnologia.
 
-| Projeto | Descrição |
-|---|---|
-| [Calculadora de IMC](https://github.com/DaniielDev/Calculadora-de-IMC) | Projeto pessoal de desenvolvimento. |
-| [Projeto Linktre](https://github.com/DaniielDev/Projeto-Linktre) | Projeto pessoal de desenvolvimento web. |
-| [Portfólio](https://github.com/DaniielDev/portfolio) | Repositório do meu portfólio pessoal. |
+### 📌 Próximos projetos
+- Modelagem e análise de dados com SQL.
+- Análise exploratória de dados com Python.
+- Dashboard interativo com Power BI.
 
-**Novos projetos de Análise de Dados, Python, SQL e Power BI serão adicionados conforme forem desenvolvidos.**
 
 ---
 
@@ -88,8 +86,3 @@ Aqui compartilho meus projetos de desenvolvimento, estudos e evolução na área
 
 </div>
 
-<div align="center">
-
-  *Aprendizado contínuo, prática e evolução.*
-
-</div>
