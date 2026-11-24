@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./.github/banner-dados.png" width="100%" alt="Daniel Santos - Análise de Dados">
+  <img src="./.github/banner-novo-2.png" width="100%" alt="Daniel Santos - Análise de Dados">
 </div>
 ---
 
